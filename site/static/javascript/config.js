@@ -1,0 +1,1 @@
+var SubDomain = 'techstore'; var SiteID = 'DB39EC36-9C19-44B6-811C-C63DB23FC705'; var host = 'https://api.eraconnect.net';
